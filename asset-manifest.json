@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_4_contest_1_sep_24/static/css/main.c7ec3132.css",
+    "main.js": "/frontend_4_contest_1_sep_24/static/js/main.297ffba4.js",
+    "index.html": "/frontend_4_contest_1_sep_24/index.html",
+    "main.c7ec3132.css.map": "/frontend_4_contest_1_sep_24/static/css/main.c7ec3132.css.map",
+    "main.297ffba4.js.map": "/frontend_4_contest_1_sep_24/static/js/main.297ffba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.297ffba4.js"
+  ]
+}
